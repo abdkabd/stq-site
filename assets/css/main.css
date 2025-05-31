@@ -1701,7 +1701,7 @@ input, select, textarea {
 @media screen and (max-width: 480px) {
 	#header .logo img {
 		width: 180px;
-		transform: translate(-60%, -50%);
+		transform: translate(-55%, -50%);
 	}
 }
 
