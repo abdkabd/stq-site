@@ -1717,21 +1717,18 @@ input, select, textarea {
 }
 
 
-/*#header .inner {
-  padding-top: 0em; 
-}*/
+
 
 
 
 body {
-  overflow: hidden;
-  height: 100vh;
+  overflow-x: hidden;
+  height: auto;
 }
 
 
 #header {
   height: 100vh;
-  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1742,7 +1739,7 @@ body {
 #header .logo img.logo-img {
   width: auto !important;
   max-width: 700px !important;
-  transform: translateY(200px); /* 40–50px ≈ 1 см */
+  transform: translateY(80px); /* 40–50px ≈ 1 см */
   height: auto;
   margin-top: 0px;
   margin-bottom: 1.5em;
@@ -1751,6 +1748,7 @@ body {
 @media screen and (max-width: 480px) {
   #header .logo img.logo-img {
     max-width: 400px !important;
+    transform: translateY(20px);
   }
 }
 
