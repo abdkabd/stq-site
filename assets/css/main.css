@@ -1736,7 +1736,7 @@ body {
 }
 
 
-#header .content .inner .logo {
+#header .logo {
   padding-top: 400px;
 }
 
@@ -1751,7 +1751,7 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-  #header .content .inner .logo {
+  #header .logo {
 	  padding-top: 120px;
   }
 	
