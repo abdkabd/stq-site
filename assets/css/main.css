@@ -1739,7 +1739,7 @@ body {
 #header .logo img.logo-img {
   width: auto !important;
   max-width: 400px !important;
-  transform: translateY(380px); /* 40–50px ≈ 1 см */
+  transform: translateY(400px); /* 40–50px ≈ 1 см */
   height: auto;
   margin-top: 0px;
   margin-bottom: 1.5em;
@@ -1748,7 +1748,7 @@ body {
 @media screen and (max-width: 480px) {
   #header .logo img.logo-img {
     max-width: 250px !important;
-    transform: translateY(100px);
+    transform: translateY(200px);
   }
 }
 
