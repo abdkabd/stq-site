@@ -1737,12 +1737,12 @@ body {
 
 
 #header .logo {
-	padding-top: 200px;
+	padding-top: 400px;
 }
 
 #header .logo img.logo-img {
   width: auto !important;
-  max-width: 800px !important;
+  max-width: 400px !important;
  /* transform: translateY(400px) translateX(-25px); /* 40–50px ≈ 1 см */
   height: auto;
   margin-top: 0px;
@@ -1755,7 +1755,7 @@ body {
   }
 	
   #header .logo img.logo-img {
-    max-width: 450px !important;
+    max-width: 250px !important;
     /*transform: translateY(250px);*/
   }
 }
