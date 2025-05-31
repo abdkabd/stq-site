@@ -1717,11 +1717,16 @@ input, select, textarea {
 }
 
 
+#header .inner {
+  padding-top: 12em; /* регулируй значение под себя */
+}
+
+
 #header .logo img.logo-img {
   width: auto !important;
   max-width: 700px !important;
   height: auto;
-  margin-top: 300px;
+  margin-top: 0px;
   margin-bottom: 3.5em;
 }
 
