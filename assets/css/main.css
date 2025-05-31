@@ -1679,7 +1679,7 @@ input, select, textarea {
 		top: -250px;
 		max-width: 100vw;
 	}*/
-#header .logo {
+/*#header .logo {
   position: relative;
   display: flex;
   justify-content: center;
@@ -1692,7 +1692,7 @@ input, select, textarea {
 #header .logo img {
   max-width: 120px;
   height: auto;
-}
+}*/
 
 
 
