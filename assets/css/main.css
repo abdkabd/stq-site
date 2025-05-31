@@ -1685,7 +1685,7 @@ input, select, textarea {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  max-width: 400%;
+  max-width: 100%;
   padding-top: 2em;
 }
 
