@@ -1719,14 +1719,14 @@ input, select, textarea {
 
 #header .logo img.logo-img {
   width: auto !important;
-  max-width: 400px !important;
+  max-width: 800px !important;
   height: auto;
   margin-bottom: 1.5em;
 }
 
 @media screen and (max-width: 480px) {
   #header .logo img.logo-img {
-    max-width: 240px !important;
+    max-width: 440px !important;
   }
 }
 
