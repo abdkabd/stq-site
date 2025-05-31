@@ -1662,7 +1662,7 @@ input, select, textarea {
 
 		
 
-	/*#header .logo img {
+	/#header .logo img {
 		width: 450px;  
   		height: avto;
 		position: absolute;
@@ -1719,47 +1719,6 @@ input, select, textarea {
 
 
 
-
-
-body {
-  overflow-x: hidden;
-  height: auto;
-}
-
-
-#header {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  flex-direction: column;
-}
-
-
-#header .logo {
-  padding-top: 400px;
-}
-
-
-#header .logo img.logo-img {
-  width: auto !important;
-  max-width: 400px !important;
- /* transform: translateY(400px) translateX(-25px); /* 40–50px ≈ 1 см */
-  height: auto;
-  margin-top: 0px;
-  margin-bottom: 1.5em;
-}
-
-@media screen and (max-width: 480px) {
-  #header .logo {
-	  padding-top: 120px;
-  }
-	
-  #header .logo img.logo-img {
-    max-width: 250px !important;
-    /*transform: translateY(250px);*/
-  }
-}
 
 
 
