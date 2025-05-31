@@ -1663,8 +1663,8 @@ input, select, textarea {
 		
 
 	/#header .logo img {
-		width: 150px;  
-  		height: avto;
+		width: 50px;  
+  		height: auto;
 		position: absolute;
 		left: 0px;
 		left: -255px;
