@@ -1723,6 +1723,17 @@ input, select, textarea {
 }
 
 
+.logo-img {
+  max-width: 160px;
+  height: auto;
+  margin-bottom: 1.5em;
+}
+
+@media screen and (max-width: 480px) {
+  .logo-img {
+    max-width: 100px;
+  }
+}
 
 
 
