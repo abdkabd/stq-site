@@ -1726,7 +1726,7 @@ input, select, textarea {
 
 @media screen and (max-width: 480px) {
   #header .logo img.logo-img {
-    max-width: 130px !important;
+    max-width: 300px !important;
   }
 }
 
