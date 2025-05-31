@@ -1738,8 +1738,8 @@ body {
 
 #header .logo img.logo-img {
   width: auto !important;
-  max-width: 450px !important;
-  transform: translateY(180px); /* 40–50px ≈ 1 см */
+  max-width: 400px !important;
+  transform: translateY(280px); /* 40–50px ≈ 1 см */
   height: auto;
   margin-top: 0px;
   margin-bottom: 1.5em;
