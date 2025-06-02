@@ -1694,14 +1694,14 @@ input, select, textarea {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	transform: translate(-55%, -40%);
+	transform: translate(-56%, -40%);
 	max-width: 100vw;
 }
 
 @media screen and (max-width: 480px) {
 	#header .logo img {
 		width: 200px;
-		transform: translate(-55%, -40%);
+		transform: translate(-56%, -40%);
 	}
 }
 
